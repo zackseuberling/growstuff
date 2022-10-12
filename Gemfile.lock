@@ -130,7 +130,7 @@ GEM
       sassc-rails (>= 2.0.0)
     bootstrap-datepicker-rails (1.9.0.1)
       railties (>= 3.0)
-    bootstrap_form (4.5.0)
+    bootstrap_form (5.1.0)
       actionpack (>= 5.2)
       activemodel (>= 5.2)
     builder (3.2.4)
@@ -643,7 +643,7 @@ GEM
       webrick
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.6.0)
+    zeitwerk (2.6.1)
 
 PLATFORMS
   ruby
