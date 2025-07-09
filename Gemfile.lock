@@ -639,8 +639,8 @@ GEM
       tilt
     scout_apm (5.6.4)
       parser
-    searchkick (5.3.1)
-      activemodel (>= 6.1)
+    searchkick (5.5.2)
+      activemodel (>= 7.1)
       hashie
     securerandom (0.4.1)
     selenium-webdriver (4.32.0)
