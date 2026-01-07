@@ -219,7 +219,7 @@ GEM
     coffee-script-source (1.12.2)
     comfy_bootstrap_form (4.0.9)
       rails (>= 5.0.0)
-    concurrent-ruby (1.3.5)
+    concurrent-ruby (1.3.6)
     connection_pool (2.5.5)
     crass (1.0.6)
     crowdin-api (1.12.0)
@@ -344,7 +344,7 @@ GEM
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    i18n (1.14.7)
+    i18n (1.14.8)
       concurrent-ruby (~> 1.0)
     i18n-tasks (1.1.2)
       activesupport (>= 4.0.2)
@@ -437,7 +437,8 @@ GEM
     mini_magick (4.12.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.9)
-    minitest (5.26.2)
+    minitest (6.0.1)
+      prism (~> 1.5)
     moneta (1.0.0)
     msgpack (1.8.0)
     multi_json (1.15.0)
@@ -691,9 +692,8 @@ GEM
       tilt
     scout_apm (6.0.2)
       parser
-    searchkick (5.3.1)
-      activemodel (>= 6.1)
-      hashie
+    searchkick (6.0.3)
+      activemodel (>= 7.2)
     securerandom (0.4.1)
     selenium-webdriver (4.39.0)
       base64 (~> 0.2)
